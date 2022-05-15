@@ -1,0 +1,23 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+
+USER    username :codeprojects
+        password :code0
+
+ADMIN   username:admin
+        password:admin 
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "chat_system.sql" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+
+
+
+#THANK YOU FOR DOWNLOADING
